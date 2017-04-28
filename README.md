@@ -21,3 +21,5 @@ Then he gets a table with all offers of all vendors for "APPLEXX"
 The customer can see all vendors sell this product and Buyers will choose the product that best suits their needs then the customer  can buy it.
 
 The Problem for the most systems on the market: One product (better: product template) and offers to the same product in different states in different stores
+
+Related plugins: [Magento Marketplace Product Attributes Extension](https://github.com/magebaycom/magento-marketplace-product-attributes)
